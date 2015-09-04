@@ -1,0 +1,15 @@
+Package: sdmutility
+Type: Package
+Title: sdmutility is a utility (tool) package for SDM (Species Distribution Modelling)
+Version: 0.1
+Date: 2015-04-08
+Author: Xiaoquan Kong
+Depends:
+    raster,
+    parallel,
+    PresenceAbsence,
+    ROCR,
+    SDMTools
+Maintainer: Xiaoquan Kong <u1mail2me@gmail.com>
+Description: A serial function or tools for SDM (Species Distribution Modelling)
+License: AGPL
